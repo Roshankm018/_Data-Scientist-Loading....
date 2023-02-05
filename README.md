@@ -1,2 +1,2 @@
 # _Data-Scientist-Loading....
-I am currently start learing Data Science form PW Skills.  I will showcase my knowledge day by day.
+I am currently start learing Data Science Masters form PW Skills. Here I will showcase my knowledge day by day.
